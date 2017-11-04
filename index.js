@@ -1,3 +1,3 @@
-const ConfigAPI = require('./lib');
+const Library = require('./lib');
 
-module.exports = ConfigAPI;
+module.exports = Library;
