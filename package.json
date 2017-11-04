@@ -1,5 +1,5 @@
 {
-  "name": "config-api",
+  "name": "config-library",
   "version": "1.0.0",
   "description": "nodejs config library",
   "main": "index.js",
