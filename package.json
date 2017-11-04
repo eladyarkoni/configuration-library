@@ -1,0 +1,26 @@
+{
+  "name": "config-api",
+  "version": "1.0.0",
+  "description": "nodejs config library",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha \"./spec/**/*.spec.js\""
+  },
+  "author": "Elad Yarkoni",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mocha": "^4.0.1",
+    "supertest": "^3.0.0",
+    "supertest-as-promised": "^4.0.2"
+  },
+  "dependencies": {
+    "fs-extra": "^4.0.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "winston": "^2.4.0"
+  }
+}
