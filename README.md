@@ -41,7 +41,7 @@ Because   of   that,   the   the   library   needs   to   be   smart   and   det
 ## Class Methods
 
 - function init(props);
-    - Initializing the class instance
+    - Library initialization
     - Properties:
         - key: customer key that used by the server for authentication
         - cacheFile: cached configuration path
