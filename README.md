@@ -1,4 +1,10 @@
-# Node.js configuration lib
+<h1 style="text-align: center;">Configuration Library</h1>
+
+Configuration Library for nodejs client applications.
+
+<div style="text-align: center;">
+    <img src="https://travis-ci.org/eladyarkoni/configuration-library.svg?branch=master">
+</div>
 
 ## Project Description
 
